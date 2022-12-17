@@ -1,7 +1,7 @@
 In this I have created A list of products.
 Using HTML and External CSS
 Various CSS styles are applied such as:
-Color
+(Color
 Font-family
 Font-size
 Border
@@ -14,7 +14,7 @@ List-style-image
 List-style-position
 Text-decoration
 Text-align
-Direction
+Direction).
 
 
 
