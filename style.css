@@ -1,0 +1,57 @@
+ body{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-image: url("https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851_960_720.jpg");
+    
+    background-repeat: repeat;
+    
+ 
+}
+.forheading{
+    font-size: 38px;
+    margin-top: 60px;
+}
+.forheading2 {
+    font-size: 24px;
+    color: darkpink;
+    color: green;
+    border: solid 1px black;
+    width:40%;
+    border-radius: 5px;
+margin-top:60px;
+direction: rtl;
+}
+ul{
+    color: green;
+}
+.forimg{
+    
+    
+    border: 1px solid;
+    width: 40%;
+    height: 92px;
+    text-align: center;
+    padding-top: 45px;
+    border-image: linear-gradient(red, yellow) 27 / 35px;
+    margin-top: 60px;
+
+}
+
+.forcircle{
+    list-style-type:circle; 
+    list-style-position: inside;
+}
+.forsquare{
+    list-style-type: square;
+
+}
+.fordisc{
+    ist-style-type: disc;
+}
+ol>li{
+    text-decoration: underline;
+}
+ul>li {
+    
+    list-style-image: url('simo.JPG');
+  }
